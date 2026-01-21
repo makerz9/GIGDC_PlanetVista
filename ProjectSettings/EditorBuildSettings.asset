@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/8. Scenes/Main.unity
+    guid: 8539f4946cc656c4190a9011752aa0dd
+  - enabled: 1
+    path: Assets/8. Scenes/Tutorial.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/8. Scenes/SkyGazer.unity
+    guid: 07d871ba58dc15d40b6cf3a0b79c3fdb
+  - enabled: 1
+    path: Assets/8. Scenes/PhantomAbyss.unity
+    guid: fae1be91b4bcff64db09dda6c64271a5
+  m_configObjects: {}
